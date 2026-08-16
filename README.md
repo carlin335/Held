@@ -118,3 +118,7 @@ Provider models are mapped into the shared `UICard` type, keeping the interface 
 ## Name check
 
 Held is the selected working brand and the installed display name. Several unrelated apps already use variants of “Held,” so complete App Store and trademark clearance and use a descriptive App Store subtitle before release. The internal Xcode target remains `CardSense` to avoid unnecessary project-file churn.
+
+<img width="660" height="1434" alt="IMG_5949" src="https://github.com/user-attachments/assets/99c3b08c-98e2-41e5-b28d-fda293782fff" />
+<img width="660" height="1434" alt="IMG_5951" src="https://github.com/user-attachments/assets/cc6bffa0-d93d-4c51-a4e6-b5dde862a3bb" />
+
