@@ -1,0 +1,10 @@
+// Add your key locally for enhanced rate limits. Never commit a real key.
+// Pokémon TCG API requests also work without a key at a lower rate limit.
+POKEMON_TCG_API_KEY =
+PRICECHARTING_API_TOKEN =
+CARDSIGHT_API_KEY =
+NUMISTA_API_KEY =
+PRODUCT_BUNDLE_IDENTIFIER = com.carlinjon.held
+
+// Optional developer-only overrides. This file is ignored by Git.
+#include? "Config.local.xcconfig"
