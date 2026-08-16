@@ -1,3 +1,7 @@
+<img width="1024" height="1024" alt="HeldIcon-Tinted" src="https://github.com/user-attachments/assets/b3f18d2d-7562-40b1-ba39-80962bc76ea9" />
+<img width="1024" height="1024" alt="HeldIcon-Dark" src="https://github.com/user-attachments/assets/74e40247-2f1a-4656-bf1e-94236f54133f" />
+<img width="1024" height="1024" alt="HeldIcon" src="https://github.com/user-attachments/assets/6345f22e-d92e-46a2-8cb7-775b54a9701e" />
+
 # Held 2.4.4
 
 Held is an iPhone-first SwiftUI collector app for identifying, researching, and organizing trading cards, sports cards, coins, wine, and other labeled collectibles.
