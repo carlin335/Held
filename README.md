@@ -124,10 +124,6 @@ Held is the selected working brand and the installed display name. Several unrel
 <img width="660" height="1434" alt="IMG_5951" src="https://github.com/user-attachments/assets/cc6bffa0-d93d-4c51-a4e6-b5dde862a3bb" />
 <img width="660" height="1434" alt="IMG_5980" src="https://github.com/user-attachments/assets/ac5a5306-abfc-4a04-b5ca-eb0165c650de" />
 <img width="660" height="1434" alt="IMG_5999" src="https://github.com/user-attachments/assets/f6ce33ec-d75b-4b4d-aba1-9239ec670085" />
-<img width="660" height="1434" alt="IMG_5975" src="https://github.com/user-attachments/assets/40d346d4-ee92-46e8-881a-b088d1ffcdd4" />
-<img width="660" height="1434" alt="IMG_5976" src="https://github.com/user-attachments/assets/d53b18ec-ac29-4842-905c-51e52224c29f" />
-<img width="660" height="1434" alt="IMG_5995" src="https://github.com/user-attachments/assets/a56d4e23-e9d6-436f-ba41-7126c6d1dfd3" />
-<img width="660" height="1434" alt="IMG_5973 2" src="https://github.com/user-attachments/assets/24699207-891e-405b-b2f6-9fc4f776f363" />
 <img width="660" height="1434" alt="IMG_5974" src="https://github.com/user-attachments/assets/2c019e6f-8cc3-4333-9881-b60e87a789b9" />
 <img width="660" height="1434" alt="IMG_5994" src="https://github.com/user-attachments/assets/8ff17e92-a032-471d-a0ba-010eec107a5b" />
 <img width="660" height="1434" alt="IMG_5993" src="https://github.com/user-attachments/assets/d1ed1931-f024-48fd-998f-f75af0c79598" />
