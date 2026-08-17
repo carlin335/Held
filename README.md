@@ -121,7 +121,8 @@ Held is the selected working brand and the installed display name. Several unrel
 
 <img width="1024" height="1024" alt="HeldIcon-Tinted" src="https://github.com/user-attachments/assets/b3f18d2d-7562-40b1-ba39-80962bc76ea9" />
 <img width="660" height="1434" alt="IMG_5951" src="https://github.com/user-attachments/assets/cc6bffa0-d93d-4c51-a4e6-b5dde862a3bb" />
-<img width="660" height="1434" alt="IMG_5980" src="https://github.com/user-attachments/assets/ac5a5306-abfc-4a04-b5ca-eb0165c650de" />
+<img width="660" height="1434" alt="IMG_5969" src="https://github.com/user-attachments/assets/a8da5350-fe1c-4d6b-80a7-1c954ba60f32" />
+<img width="660" height="1434" alt="IMG_5997" src="https://github.com/user-attachments/assets/0a3c6e92-8b5e-4a06-a5ed-43b47dc987c0" />
 <img width="660" height="1434" alt="IMG_5999" src="https://github.com/user-attachments/assets/f6ce33ec-d75b-4b4d-aba1-9239ec670085" />
 <img width="660" height="1434" alt="IMG_5974" src="https://github.com/user-attachments/assets/2c019e6f-8cc3-4333-9881-b60e87a789b9" />
 <img width="660" height="1434" alt="IMG_5994" src="https://github.com/user-attachments/assets/8ff17e92-a032-471d-a0ba-010eec107a5b" />
