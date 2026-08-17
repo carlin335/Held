@@ -130,5 +130,6 @@ Held is the selected working brand and the installed display name. Several unrel
 <img width="660" height="1434" alt="IMG_5955 2" src="https://github.com/user-attachments/assets/d6aecffb-0829-4fe5-8111-1cf29b945ff5" />
 <img width="660" height="1434" alt="IMG_5992" src="https://github.com/user-attachments/assets/d07ae68c-bde3-4ea5-9544-134d904d7c09" />
 <img width="660" height="1434" alt="IMG_5972 2" src="https://github.com/user-attachments/assets/52c1e13c-ce39-4f65-824f-dee692c124bb" />
+<img width="660" height="1434" alt="IMG_5964" src="https://github.com/user-attachments/assets/1199bb0d-09c0-4595-8eab-1a4b2e927599" />
 <img width="660" height="1434" alt="IMG_5963 2" src="https://github.com/user-attachments/assets/c5b0d01a-56a5-45d5-89d8-c443f0cf8e65" />
 <img width="660" height="1434" alt="IMG_5997" src="https://github.com/user-attachments/assets/27cd5d1c-7285-4077-b17e-7867acaeee25" />
