@@ -122,12 +122,21 @@ Held is the selected working brand and the installed display name. Several unrel
 <img width="1024" height="1024" alt="HeldIcon-Tinted" src="https://github.com/user-attachments/assets/b3f18d2d-7562-40b1-ba39-80962bc76ea9" />
 <img width="660" height="1434" alt="IMG_5949" src="https://github.com/user-attachments/assets/99c3b08c-98e2-41e5-b28d-fda293782fff" />
 <img width="660" height="1434" alt="IMG_5951" src="https://github.com/user-attachments/assets/cc6bffa0-d93d-4c51-a4e6-b5dde862a3bb" />
-<img width="660" height="1434" alt="IMG_5971" src="https://github.com/user-attachments/assets/f5ec068c-2ff6-4036-811d-57b8252e282f" />
-<img width="660" height="1434" alt="IMG_5973" src="https://github.com/user-attachments/assets/e70e5f67-00b8-41f4-bc55-1f80c6f73d39" />
-<img width="660" height="1434" alt="IMG_5953" src="https://github.com/user-attachments/assets/78b4b519-4136-4288-bf58-2538e87ebb70" />
-<img width="660" height="1434" alt="IMG_5954" src="https://github.com/user-attachments/assets/379972bf-8e1f-469b-a29d-2e84c6a181db" />
-<img width="660" height="1434" alt="IMG_5955" src="https://github.com/user-attachments/assets/cdb5e4c2-9150-4c6a-93ca-78c53c515634" />
-<img width="660" height="1434" alt="IMG_5964" src="https://github.com/user-attachments/assets/6a58c4e5-9ff2-4e67-b9d9-8a00422052f5" />
-<img width="660" height="1434" alt="IMG_5972" src="https://github.com/user-attachments/assets/843c69d1-5fa3-4a39-ab20-04c27ac7f774" />
-<img width="660" height="1434" alt="IMG_5969" src="https://github.com/user-attachments/assets/d241318e-3862-4ac0-ad21-2ba1190a4f1d" />
-<img width="660" height="1434" alt="IMG_5963" src="https://github.com/user-attachments/assets/eda28815-af4c-4d4d-a550-dbf8899865b5" />
+<img width="660" height="1434" alt="IMG_5980" src="https://github.com/user-attachments/assets/ac5a5306-abfc-4a04-b5ca-eb0165c650de" />
+<img width="660" height="1434" alt="IMG_5999" src="https://github.com/user-attachments/assets/f6ce33ec-d75b-4b4d-aba1-9239ec670085" />
+<img width="660" height="1434" alt="IMG_5975" src="https://github.com/user-attachments/assets/40d346d4-ee92-46e8-881a-b088d1ffcdd4" />
+<img width="660" height="1434" alt="IMG_5976" src="https://github.com/user-attachments/assets/d53b18ec-ac29-4842-905c-51e52224c29f" />
+<img width="660" height="1434" alt="IMG_5995" src="https://github.com/user-attachments/assets/a56d4e23-e9d6-436f-ba41-7126c6d1dfd3" />
+<img width="660" height="1434" alt="IMG_5973 2" src="https://github.com/user-attachments/assets/24699207-891e-405b-b2f6-9fc4f776f363" />
+<img width="660" height="1434" alt="IMG_5974" src="https://github.com/user-attachments/assets/2c019e6f-8cc3-4333-9881-b60e87a789b9" />
+<img width="660" height="1434" alt="IMG_5994" src="https://github.com/user-attachments/assets/8ff17e92-a032-471d-a0ba-010eec107a5b" />
+<img width="660" height="1434" alt="IMG_5993" src="https://github.com/user-attachments/assets/d1ed1931-f024-48fd-998f-f75af0c79598" />
+<img width="660" height="1434" alt="IMG_5954 2" src="https://github.com/user-attachments/assets/254fd5fb-af74-4b6c-9ee5-36adad06a0b3" />
+<img width="660" height="1434" alt="IMG_5955 2" src="https://github.com/user-attachments/assets/d6aecffb-0829-4fe5-8111-1cf29b945ff5" />
+<img width="660" height="1434" alt="IMG_5964 2" src="https://github.com/user-attachments/assets/4eb46335-62ab-4f7b-b7d2-1112e6ea690c" />
+<img width="660" height="1434" alt="IMG_5992" src="https://github.com/user-attachments/assets/d07ae68c-bde3-4ea5-9544-134d904d7c09" />
+<img width="660" height="1434" alt="IMG_5972 2" src="https://github.com/user-attachments/assets/52c1e13c-ce39-4f65-824f-dee692c124bb" />
+<img width="660" height="1434" alt="IMG_5963 2" src="https://github.com/user-attachments/assets/c5b0d01a-56a5-45d5-89d8-c443f0cf8e65" />
+<img width="660" height="1434" alt="IMG_5997" src="https://github.com/user-attachments/assets/27cd5d1c-7285-4077-b17e-7867acaeee25" />
+<img width="660" height="1434" alt="IMG_5996" src="https://github.com/user-attachments/assets/9a8527cd-f2cc-4aa3-bba9-816eccf13115" />
+
