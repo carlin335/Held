@@ -36,8 +36,6 @@ The 2.0 rebuild turns the original single-screen search prototype into a complet
 open CardSense.xcodeproj
 ```
 
-Choose your development team in Signing & Capabilities, select an iPhone target, and run.
-
 The repository includes a ready-to-open Xcode project. [XcodeGen](https://github.com/yonaskolb/XcodeGen) is optional and only needed if you want to regenerate that project from `project.yml`.
 
 ## Data sources
